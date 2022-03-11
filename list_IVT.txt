@@ -1,0 +1,9 @@
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1921.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1931.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1941.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1951.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1961.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1971.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1981.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_1991.nc?download=1
+https://zenodo.org/record/6338636/files/IVT_ens01_historical_2001.nc?download=1
